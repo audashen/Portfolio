@@ -1,7 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
 [ipynb](https://github.com/audashen/Portfolio/blob/main/moscow%20catering/moscow%20catering.ipynb)\
-[ipynb_nbviewer](https://nbviewer.org/github/audashen/Portfolio/blob/main/moscow%20catering/moscow%20catering.ipynb)\
+[ipynb_nbviewer](https://nbviewer.org/github/audashen/Yandex.Practicum-data_analyst_projects/blob/main/moscow%20catering/moscow%20catering.ipynb)\
 [html](https://github.com/audashen/Portfolio/blob/main/moscow%20catering/moscow%20catering.html)
 
 ### Описание проекта
